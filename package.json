@@ -1,12 +1,11 @@
 {
-  "name": "expo-pdf-viewer",
+  "name": "expo-pdf-viewerr",
   "version": "1.0.2",
   "description": "PDF reader for Expo",
   "main": "node_modules/expo/AppEntry.js",
   "types": "lib/index.d.ts",
-  "author": "Xavier Carpentier <xcapetir@gmail.com> (https://xaviercarpentier.com/)",
+  "author": "JP",
   "license": "MIT",
-
   "keywords": [
     "React-Native",
     "PDF",
@@ -20,15 +19,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vaibhavgadekar/expo-pdf-viewer.git"
+    "url": "https://github.com/Patrick-web/expo-pdf-viewer.git"
   },
   "peerDependencies": {
-    "expo": ">= 33.0.x < 41.0.x",
-    "expo-constants": ">= 5.0.0 < 9.x",
-    "expo-file-system": ">= 5.0.0 < 9.x",
+    "expo": ">= 33.0.x ",
+    "expo-constants": ">= 5.0.0",
+    "expo-file-system": ">= 5.0.0",
     "react": "16.x",
     "react-native": "*",
-    "react-native-webview": ">= 7.0.5 < 12.x"
+    "react-native-webview": ">= 7.0.5"
   },
   "dependencies": {
     "buffer": "5.1.0",
@@ -54,7 +53,7 @@
     "typescript": "^4.6.3"
   },
   "bugs": {
-    "url": "https://github.com/vaibhavgadekar/expo-pdf-viewer/issues"
+    "url": "https://github.com/Patrick-web/expo-pdf-viewer/issues"
   },
-  "homepage": "https://github.com/vaibhavgadekar/expo-pdf-viewer/blob/main/README.md"
+  "homepage": "https://github.com/Patrick-web/expo-pdf-viewer/blob/main/README.md"
 }
